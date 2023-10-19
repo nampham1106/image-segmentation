@@ -2,14 +2,23 @@
 ## project structure
 """
 ├── docker-compose.yml
+
 ├── fastapi
+
 │   ├── Dockerfile
+
 │   ├── requirements.txt
+
 │   ├── segmentation.py
+
 │   └── server.py
+
 └── streamlit
+
     ├── Dockerfile
+    
     ├── requirements.txt
+    
     └── ui.py
 """
 ## install
