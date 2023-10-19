@@ -13,8 +13,8 @@
         └── ui.py
 
 ## install
-git clone https://github.com/nampham1106/image-segmentation.git
+    git clone https://github.com/nampham1106/image-segmentation.git
 ## run 
-docker-compose up
+    docker-compose up
 ## stop
-docker-compose down
+    docker-compose down
