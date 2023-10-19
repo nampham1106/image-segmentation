@@ -1,5 +1,6 @@
 # image-segmentation
 ## project structure
+"""
 ├── docker-compose.yml
 ├── fastapi
 │   ├── Dockerfile
@@ -10,6 +11,7 @@
     ├── Dockerfile
     ├── requirements.txt
     └── ui.py
+"""
 ## install
 git clone https://github.com/nampham1106/image-segmentation.git
 ## run 
